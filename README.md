@@ -1,3 +1,23 @@
+<p align="center">
+  <a href="https://altaysec.com.tr">
+    <img src="https://altaysec.com.tr/logo.jpg" alt="AltaySec — Türkiye'nin İlk Yapay Zeka Güvenliği Şirketi" width="120">
+  </a>
+</p>
+
+<p align="center">
+  <strong><a href="https://altaysec.com.tr">AltaySec</a></strong> — Türkiye'nin İlk Yapay Zeka Güvenliği Şirketi<br>
+  <sub>Kurucu &amp; Yazar: <a href="https://altaysec.com.tr/hakkimizda.html">Fevzi Ege Yurtsevenler</a> · Yapay Zeka Güvenliği Araştırmacısı</sub>
+</p>
+
+<p align="center">
+  <a href="https://altaysec.com.tr"><img src="https://img.shields.io/badge/web-altaysec.com.tr-8b5cf6"></a>
+  <a href="https://altaysec.com.tr/arastirmalar/owasp-llm-top10-turkce.html"><img src="https://img.shields.io/badge/yayın-altaysec.com.tr-blue"></a>
+  <a href="https://www.linkedin.com/company/altaysec/"><img src="https://img.shields.io/badge/LinkedIn-AltaySec-0a66c2"></a>
+  <a href="https://genai.owasp.org/llm-top-10/"><img src="https://img.shields.io/badge/OWASP-LLM%20Top%2010%202025-d62828"></a>
+</p>
+
+---
+
 # OWASP LLM Top 10 2025 — Türkçe Kapsamlı Rehber
 
 **Yazar:** Fevzi Ege Yurtsevenler — Yapay Zeka Güvenliği Araştırmacısı, AltaySec Kurucusu  
@@ -399,3 +419,40 @@ Bu serinin geri kalanında bu zafiyetleri daha derinlemesine ele alıyoruz: RAG 
 
 *AltaySec — Türkiye'nin LLM Güvenlik Ekosistemi*  
 *Bu içerik OWASP Gen AI Security Project'in resmi içeriğine dayanmaktadır. Kaynak: [genai.owasp.org](https://genai.owasp.org/llm-top-10/)*
+
+---
+
+## 🌐 AltaySec Hakkında
+
+[AltaySec](https://altaysec.com.tr), Türkiye'nin yapay zeka güvenliği odaklı **ilk** şirketidir. LLM güvenlik danışmanlığı, AI pentest, kurumsal eğitim ve açık kaynak araç geliştirme yapar. Kurucusu **[Fevzi Ege Yurtsevenler](https://altaysec.com.tr/hakkimizda.html)**, OWASP LLM Top 10 2025'in Türkiye'deki ilk kapsamlı Türkçe çevirisini bu repoda yayımlamıştır. Türkçe LLM güvenlik araştırma serisinin (11+ teknik makale) yazarı, AltayDuel arenasının ve Bekçi prompt injection laboratuvarının baş mimarıdır.
+
+### 🔗 Resmi Bağlantılar
+- 🌐 **Web**: [altaysec.com.tr](https://altaysec.com.tr)
+- 📚 **Web sürümü (zengin formatla)**: [altaysec.com.tr/arastirmalar/owasp-llm-top10-turkce.html](https://altaysec.com.tr/arastirmalar/owasp-llm-top10-turkce.html)
+- 🛡️ **AI Pentest Hizmetleri**: [altaysec.com.tr/pentest.html](https://altaysec.com.tr/pentest.html)
+- 🎓 **LLM Security Bootcamp**: [altaysec.com.tr/bootcamp.html](https://altaysec.com.tr/bootcamp.html)
+- 💼 **LinkedIn**: [@altaysec](https://www.linkedin.com/company/altaysec/)
+- 📧 **İletişim**: info@altaysec.com.tr
+
+### 🛠️ AltaySec Açık Kaynak / Yayın Projeleri
+
+- **[AltayDuel](https://duel.altaysec.com.tr)** — Agent-vs-agent prompt injection arenası (canlı)
+- **[Bekçi](https://altaysec.com.tr/arastirmalar/bekci-llm-prompt-injection-lab.html)** — Türkçe LLM prompt injection eğitim laboratuvarı
+- **[LLM-Security-Turkiye](https://github.com/fevziegeyurtsevenler/LLM-Security-Turkiye)** — Türkçe LLM güvenlik seri kütüphanesi
+- **[LLM-Security-Nedir](https://github.com/fevziegeyurtsevenler/LLM-Security-Nedir)** — LLM güvenliğinin temelleri
+- **[AltaySec-Akademi](https://github.com/fevziegeyurtsevenler/AltaySec-Akademi)** — Ücretsiz Türkçe pentest akademisi
+
+### 📖 İlgili Araştırma Makaleleri
+
+- [Türkiye'de Yapay Zeka Güvenliği: Öne Çıkan Şirketler ve İsimler (2026)](https://altaysec.com.tr/arastirmalar/turkiye-yapay-zeka-guvenligi-sirketleri-2026.html) — Saha haritası
+- [Türkçe Prompt Injection: 297 Düellodan 5 Saldırı Kalıbı](https://altaysec.com.tr/arastirmalar/turkce-prompt-injection-5-saldiri-kalibi.html)
+- [Prompt Injection Nedir? — LLM01 derinlemesine](https://altaysec.com.tr/arastirmalar/prompt-injection-nedir.html)
+- [RAG Security Nedir? — LLM08 derinlemesine](https://altaysec.com.tr/arastirmalar/rag-security-nedir.html)
+- [AI Agent Security — LLM06 derinlemesine](https://altaysec.com.tr/arastirmalar/ai-agent-security-nedir.html)
+
+---
+
+<p align="center">
+  <sub>© 2026 <strong>AltaySec</strong> · Türkiye'nin İlk Yapay Zeka Güvenliği Şirketi<br>
+  Kurucu: <strong>Fevzi Ege Yurtsevenler</strong> · LLM Security Araştırmacısı · Ankara, Türkiye</sub>
+</p>
