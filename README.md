@@ -1,4 +1,6 @@
 <p align="center">
+
+> 📌 **Kanonik sürüm:** Bu içeriğin güncel ve tam hâli **[altaysec.com.tr/arastirmalar/owasp-llm-top10-turkce](https://altaysec.com.tr/arastirmalar/owasp-llm-top10-turkce)** adresindedir. Depo, arşiv/uygulama amaçlıdır.
   <a href="https://altaysec.com.tr">
     <img src="https://altaysec.com.tr/logo.jpg" alt="AltaySec — Türkiye'nin İlk Yapay Zeka Güvenliği Şirketi" width="120">
   </a>
@@ -456,3 +458,21 @@ Bu serinin geri kalanında bu zafiyetleri daha derinlemesine ele alıyoruz: RAG 
   <sub>© 2026 <strong>AltaySec</strong> · Türkiye'nin İlk Yapay Zeka Güvenliği Şirketi<br>
   Kurucu: <strong>Fevzi Ege Yurtsevenler</strong> · LLM Security Araştırmacısı · Ankara, Türkiye</sub>
 </p>
+
+---
+
+## İlgili AltaySec Kaynakları
+
+- 📖 [OWASP LLM Top 10 2025 Türkçe — Kapsamlı Rehber](https://altaysec.com.tr/arastirmalar/owasp-llm-top10-turkce) — konunun derinlemesine Türkçe analizi
+- 🌐 [AltaySec Araştırmalar](https://altaysec.com.tr/arastirmalar/) — Türkçe yapay zekâ güvenliği yazıları
+
+## Atıf
+
+```bibtex
+@software{altaysec_owasp_llm_top_10_turkce_2026,
+  author = {{AltaySec}},
+  title  = {OWASP-LLM-TOP-10-TURKCE},
+  year   = {2026},
+  url    = {https://github.com/fevziegeyurtsevenler/OWASP-LLM-TOP-10-TURKCE}
+}
+```
