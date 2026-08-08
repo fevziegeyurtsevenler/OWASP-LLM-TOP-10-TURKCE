@@ -1,3 +1,5 @@
+> 📢 **2026 edisyonu yayında:** [owasp-llm-top10-2026-tr](https://github.com/fevziegeyurtsevenler/owasp-llm-top10-2026-tr) — 2025→2026 değişim haritası ve makine-okunur veriyle. İnteraktif öz-değerlendirme: [llm-top10-2026-selfcheck](https://huggingface.co/spaces/fevziegeyurtsevenler/llm-top10-2026-selfcheck)
+
 <p align="center">
 
 > 📌 **Kanonik sürüm:** Bu içeriğin güncel ve tam hâli **[altaysec.com.tr/arastirmalar/owasp-llm-top10-turkce](https://altaysec.com.tr/arastirmalar/owasp-llm-top10-turkce)** adresindedir. Depo, arşiv/uygulama amaçlıdır.
